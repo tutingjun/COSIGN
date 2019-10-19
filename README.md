@@ -7,8 +7,9 @@ Co-created with Jason Barnett
 Special thanks to Professor Susan Fox from Macalester and Mash Ibtesum from Carleton
 
 
-LINKS：
 
+
+LINKS：
 
 Dataset: https://www.kaggle.com/grassknoted/asl-alphabet
 
