@@ -14,6 +14,4 @@
 
 Dataset: https://www.kaggle.com/grassknoted/asl-alphabet
 
-Presentation Poster: https://drive.google.com/open?id=1fX7qrQubRICmkoHdDNwxePHrkShbNjkC
-
 Demo Videos: https://drive.google.com/open?id=1PrIB7yrXcWOqcYsyASYYZdrMsgxzWFMw
